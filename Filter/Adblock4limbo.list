@@ -1,102 +1,102 @@
 # 毒奶广告屏蔽
 
 #####Jable.tv av吃到饱
-DOMAIN-SUFFIX, asewlfjqwlflkew.com, reject
-DOMAIN-SUFFIX, uus52.com, reject
-DOMAIN-SUFFIX, uus58.com, reject
-DOMAIN-SUFFIX, ddmax20.xyz, reject
-DOMAIN-SUFFIX, ads.exosrv.com, reject
-DOMAIN-KEYWORD, exosrv, reject
-DOMAIN-KEYWORD, asewlfjqwlflkew, reject
-DOMAIN-SUFFIX, tyrantdb.com, reject
-DOMAIN-SUFFIX, adserve.work, reject
+HOST-SUFFIX, asewlfjqwlflkew.com, AdBlock
+HOST-SUFFIX, uus52.com, AdBlock
+HOST-SUFFIX, uus58.com, AdBlock
+HOST-SUFFIX, ddmax20.xyz, AdBlock
+HOST-SUFFIX, ads.exosrv.com, AdBlock
+HOST-KEYWORD, exosrv, AdBlock
+HOST-KEYWORD, asewlfjqwlflkew, AdBlock
+HOST-SUFFIX, tyrantdb.com, AdBlock
+HOST-SUFFIX, adserve.work, AdBlock
 
 #####nfmovies.com 奈菲影视
-DOMAIN-SUFFIX, s96.cnzz.com, reject
-#DOMAIN-SUFFIX, yabo729.com, reject
+HOST-SUFFIX, s96.cnzz.com, AdBlock
+#HOST-SUFFIX, yabo729.com, AdBlock
 
 ######m.pianku.me/ 手机片库网
-DOMAIN-SUFFIX, xn--xhq9mt12cf5v.xn--io0a7i:4443, reject
-#DOMAIN-KEYWORD, xn--2qux23c9ziyrq, reject
-DOMAIN-SUFFIX, xn--3bs795g.zone, reject
-DOMAIN-SUFFIX, xn--2qux23c9ziyrq.plus, reject
-DOMAIN-SUFFIX, xn--2qux23c9ziyrq.club, reject
-DOMAIN-SUFFIX, xn--xhq9mt12cf5v.xn--io0a7i, reject
-DOMAIN-SUFFIX, ddmax20.xyz, reject
-#DOMAIN-SUFFIX, www.avple.video, reject
-DOMAIN-SUFFIX, xn--3bs795g.link, reject
+HOST-SUFFIX, xn--xhq9mt12cf5v.xn--io0a7i:4443, AdBlock
+#HOST-KEYWORD, xn--2qux23c9ziyrq, AdBlock
+HOST-SUFFIX, xn--3bs795g.zone, AdBlock
+HOST-SUFFIX, xn--2qux23c9ziyrq.plus, AdBlock
+HOST-SUFFIX, xn--2qux23c9ziyrq.club, AdBlock
+HOST-SUFFIX, xn--xhq9mt12cf5v.xn--io0a7i, AdBlock
+HOST-SUFFIX, ddmax20.xyz, AdBlock
+#HOST-SUFFIX, www.avple.video, AdBlock
+HOST-SUFFIX, xn--3bs795g.link, AdBlock
 
 #####netflav.com Netflav
-DOMAIN-SUFFIX, maphuahin.com, reject
-DOMAIN-SUFFIX, ggsfq.com, reject
-DOMAIN-SUFFIX, ad.pornimg.xyz, reject
-DOMAIN-SUFFIX, yandex.ru, reject
-DOMAIN-SUFFIX, awaitcola.com, reject
-#DOMAIN-SUFFIX, jsdelivr.net, reject
-DOMAIN-SUFFIX, wine-api.net, reject
-#DOMAIN-KEYWORD, wixsite.com, reject
-DOMAIN-SUFFIX, exosrv.com, reject
-DOMAIN-SUFFIX, juicyads.com, reject
-#DOMAIN-SUFFIX, wixstatic.com, reject
-DOMAIN-SUFFIX, thumb.fvs.io, reject
-DOMAIN-SUFFIX, itnuzleafan.com, reject
-DOMAIN-SUFFIX, oawhaursaith.com, reject
-DOMAIN-SUFFIX, unreshiramor.com, reject
+HOST-SUFFIX, maphuahin.com, AdBlock
+HOST-SUFFIX, ggsfq.com, AdBlock
+HOST-SUFFIX, ad.pornimg.xyz, AdBlock
+HOST-SUFFIX, yandex.ru, AdBlock
+HOST-SUFFIX, awaitcola.com, AdBlock
+#HOST-SUFFIX, jsdelivr.net, AdBlock
+HOST-SUFFIX, wine-api.net, AdBlock
+#HOST-KEYWORD, wixsite.com, AdBlock
+HOST-SUFFIX, exosrv.com, AdBlock
+HOST-SUFFIX, juicyads.com, AdBlock
+#HOST-SUFFIX, wixstatic.com, AdBlock
+HOST-SUFFIX, thumb.fvs.io, AdBlock
+HOST-SUFFIX, itnuzleafan.com, AdBlock
+HOST-SUFFIX, oawhaursaith.com, AdBlock
+HOST-SUFFIX, unreshiramor.com, AdBlock
 
 #####avgle.me
-DOMAIN-SUFFIX, jads.co, reject
-DOMAIN-SUFFIX, adxadserv.com, reject
-DOMAIN-SUFFIX, moatads.com, reject
-DOMAIN-SUFFIX, juicyads.in, reject
-DOMAIN-SUFFIX, dtscout.com, reject
+HOST-SUFFIX, jads.co, AdBlock
+HOST-SUFFIX, adxadserv.com, AdBlock
+HOST-SUFFIX, moatads.com, AdBlock
+HOST-SUFFIX, juicyads.in, AdBlock
+HOST-SUFFIX, dtscout.com, AdBlock
 
 #####dilili.tv
-DOMAIN-SUFFIX, 51.la, reject
-DOMAIN-SUFFIX, 51daeka.com, reject
+HOST-SUFFIX, 51.la, AdBlock
+HOST-SUFFIX, 51daeka.com, AdBlock
 
 ######porn
-DOMAIN-SUFFIX, trafficjunky.com, reject
+HOST-SUFFIX, trafficjunky.com, AdBlock
 
 #####xvideos
 
 
 ##### ja.nyahentai.com
-DOMAIN-SUFFIX, adserver.juicyads.com, reject
-DOMAIN-SUFFIX, poweredby.jads.co, reject
-DOMAIN-SUFFIX, jads.co, reject
+HOST-SUFFIX, adserver.juicyads.com, AdBlock
+HOST-SUFFIX, poweredby.jads.co, AdBlock
+HOST-SUFFIX, jads.co, AdBlock
 
 ##### www.cocomanhua.com
-DOMAIN-SUFFIX, exdynsrv.com, reject
-#DOMAIN-SUFFIX, cloudfront.net, reject
-DOMAIN-SUFFIX, d227cncaprzd7y.cloudfront.net, reject
-DOMAIN-SUFFIX, d10lumateci472.cloudfront.net, reject
+HOST-SUFFIX, exdynsrv.com, AdBlock
+#HOST-SUFFIX, cloudfront.net, AdBlock
+HOST-SUFFIX, d227cncaprzd7y.cloudfront.net, AdBlock
+HOST-SUFFIX, d10lumateci472.cloudfront.net, AdBlock
 
 ##### www.mfkhm.com
-DOMAIN-SUFFIX, new.xiongzhangad.com, reject
+HOST-SUFFIX, new.xiongzhangad.com, AdBlock
 
 ##### m.yhdm.io
-DOMAIN-SUFFIX, dvzk66.cn, reject
-DOMAIN-SUFFIX, pu0glv.cn, reject
+HOST-SUFFIX, dvzk66.cn, AdBlock
+HOST-SUFFIX, pu0glv.cn, AdBlock
 
 ##### www.porntrex.com/
-#DOMAIN-SUFFIX, ads.bullionyield.com, reject
+#HOST-SUFFIX, ads.bullionyield.com, AdBlock
 
 ##### https://www.zhenbuka.com/
-DOMAIN, 2785.dlads.cn, reject
-DOMAIN, dagonghuzhu.com, reject
-#DOMAIN-SUFFIX, byteimg.com, reject
+HOST, 2785.dlads.cn, AdBlock
+HOST, dagonghuzhu.com, AdBlock
+#HOST-SUFFIX, byteimg.com, AdBlock
 
 ##### www.hptoon.com
-DOMAIN-SUFFIX, imgxxx.shunxincar.cn, reject
-DOMAIN-SUFFIX, cc58.oss-cn-beijing.aliyuncs.com, reject
-DOMAIN-SUFFIX, oss-accelerate.aliyuncs.com, reject
-DOMAIN-SUFFIX, kk.braincf.com, reject
-DOMAIN-SUFFIX, run.haireig.com, reject
-DOMAIN-SUFFIX, d.zxptw.cn, reject
-DOMAIN-SUFFIX, new.xiongzhangad.com, reject
-DOMAIN-SUFFIX, js.users.51.la, reject
-DOMAIN-SUFFIX, maxwellsery.com, reject
-DOMAIN-SUFFIX, annabelleabe.com, reject
+HOST-SUFFIX, imgxxx.shunxincar.cn, AdBlock
+HOST-SUFFIX, cc58.oss-cn-beijing.aliyuncs.com, AdBlock
+HOST-SUFFIX, oss-accelerate.aliyuncs.com, AdBlock
+HOST-SUFFIX, kk.braincf.com, AdBlock
+HOST-SUFFIX, run.haireig.com, AdBlock
+HOST-SUFFIX, d.zxptw.cn, AdBlock
+HOST-SUFFIX, new.xiongzhangad.com, AdBlock
+HOST-SUFFIX, js.users.51.la, AdBlock
+HOST-SUFFIX, maxwellsery.com, AdBlock
+HOST-SUFFIX, annabelleabe.com, AdBlock
 
 ##### https://91mjw.com/
-DOMAIN-SUFFIX, jianxinshanghai.com, reject
+HOST-SUFFIX, jianxinshanghai.com, AdBlock
