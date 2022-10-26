@@ -1,6 +1,6 @@
-# 毒奶广告屏蔽  
+# 毒奶广告屏蔽
 
-##### https://javmost.xyz/  
+##### javmost.xyz 
 HOST-SUFFIX, v3.fstats.xyz, AdBlock
 HOST-SUFFIX, wpadmngr.com, AdBlock
 HOST-SUFFIX, histats.com, AdBlock
@@ -17,13 +17,13 @@ HOST-SUFFIX, js.wpushsdk.com, AdBlock
 HOST-SUFFIX, 9e77b6e6e2.2e3f31faae.com, AdBlock
 HOST-SUFFIX, playersb.com, AdBlock
 
-##### https://www.tvc.cc/  
+##### www.tvc.cc 
 HOST-SUFFIX, 42yenxh.cn, AdBlock
 HOST-SUFFIX, dwyhup.cn, AdBlock
 HOST-SUFFIX, netdjs.net, AdBlock
 HOST-SUFFIX, pc.stgowan.com, AdBlock
 
-##### https://avple.tv/  
+##### avple.tv
 HOST-SUFFIX, tapioni.com, AdBlock
 HOST-SUFFIX, 107iwh.cn, AdBlock
 HOST-SUFFIX, hbhuatie.com, AdBlock
@@ -34,7 +34,7 @@ HOST-SUFFIX, trafforsrv.com, AdBlock
 HOST-SUFFIX, trafficforce.com, AdBlock
 HOST-SUFFIX, s.csyfe.com, AdBlock
 
-##### https://www.tvn.cc/ 韩剧TV  
+##### www.tvn.cc 韩剧TV  
 HOST-SUFFIX, qw2v.changshuohr.net, AdBlock
 HOST-SUFFIX, wss.haoyundmn.com, AdBlock
 
@@ -57,7 +57,7 @@ HOST-SUFFIX, e67repidwnfu7gcha.com, AdBlock
 HOST-SUFFIX, wuzbhjpvsf.com, AdBlock
 HOST-SUFFIX, a.realsrv.com, AdBlock
 
-#####Jable.tv av吃到饱  
+##### jable.tv
 HOST-SUFFIX, a.shukriya90.com, AdBlock
 HOST-SUFFIX, a.shukriya90.com, AdBlock
 HOST-SUFFIX, creative.xlviirdr.com, AdBlock
@@ -72,25 +72,24 @@ HOST-KEYWORD, asewlfjqwlflkew, AdBlock
 HOST-SUFFIX, tyrantdb.com, AdBlock
 HOST-SUFFIX, adserve.work, AdBlock
 
-#####nfmovies.com 奈菲影视  
+##### nfmovies.com 奈菲影视
 HOST-KEYWORD, brushshopy, AdBlock
 HOST-KEYWORD, onenews, AdBlock
 HOST-SUFFIX, s96.cnzz.com, AdBlock
 
-######m.pianku.me/ 手机片库网  
+###### m.pianku.me 手机片库网  
 HOST-SUFFIX, xn--3bs795g.zone, AdBlock
 HOST-SUFFIX, xn--2qux23c9ziyrq.plus, AdBlock
 HOST-SUFFIX, xn--2qux23c9ziyrq.club, AdBlock
 HOST-SUFFIX, xn--xhq9mt12cf5v.xn--io0a7i, AdBlock
 HOST-SUFFIX, ddmax20.xyz, AdBlock
-#HOST-SUFFIX, www.avple.video, AdBlock
 HOST-SUFFIX, xn--3bs795g.link, AdBlock
 HOST-SUFFIX, show.suning.beer, AdBlock
 HOST-SUFFIX, www.govshenzhen.cn, AdBlock
 HOST-SUFFIX, mm9842.com, AdBlock
 HOST-KEYWORD, e2wysbacctt1, AdBlock
 
-#####netflav.com Netflav  
+##### netflav.com
 HOST-SUFFIX, maphuahin.com, AdBlock
 HOST-SUFFIX, ggsfq.com, AdBlock
 HOST-SUFFIX, ad.pornimg.xyz, AdBlock
@@ -107,18 +106,18 @@ HOST-SUFFIX, regulationprivilegescan.top, AdBlock
 HOST-SUFFIX, in-page-push.com, AdBlock
 HOST-SUFFIX, farmcrapsubsist.com, AdBlock
 
-#####avgle.me  
+##### avgle.me  
 HOST-SUFFIX, jads.co, AdBlock
 HOST-SUFFIX, adxadserv.com, AdBlock
 HOST-SUFFIX, moatads.com, AdBlock
 HOST-SUFFIX, juicyads.in, AdBlock
 HOST-SUFFIX, dtscout.com, AdBlock
 
-#####dilili.tv  
+##### dilili.tv  
 HOST-SUFFIX, 51.la, AdBlock
 HOST-SUFFIX, 51daeka.com, AdBlock
 
-######porn  
+###### porn  
 HOST-SUFFIX, trafficjunky.com, AdBlock  
 
 ##### ja.nyahentai.com  
@@ -139,9 +138,12 @@ HOST-SUFFIX, dvzk66.cn, AdBlock
 HOST-SUFFIX, pu0glv.cn, AdBlock
 
 ##### hmtv.me  
-HOST-SUFFIX, sentry.io, AdBlock 
+HOST-SUFFIX, sentry.io, AdBlock
 
-##### https://www.zhenbuka.com/  
+##### www.porntrex.com
+#HOST-SUFFIX, ads.bullionyield.com, AdBlock
+
+##### www.zhenbuka.com 
 HOST-KEYWORD, dlads, AdBlock
 HOST, dagonghuzhu.com, AdBlock
 HOST-KEYWORD, xxshuyuan, AdBlock
@@ -170,7 +172,7 @@ HOST-SUFFIX, js.users.51.la, AdBlock
 HOST-SUFFIX, maxwellsery.com, AdBlock
 HOST-SUFFIX, annabelleabe.com, AdBlock
 
-##### https://91mjw.com/  
+##### 91mjw.com
 HOST-SUFFIX, jidukeji.com, AdBlock
 HOST-SUFFIX, atmib.com, AdBlock
 HOST-SUFFIX, bjzysd.net, AdBlock
@@ -187,14 +189,14 @@ HOST-SUFFIX, bhichong.com, AdBlock
 HOST-SUFFIX, tskdfjksldk.sdhsgcj.com, AdBlock
 HOST-SUFFIX, haoyuntj.com, AdBlock
 
-##### https://m.biquge.com.cn/  
+##### m.biquge.com.cn
 HOST-SUFFIX, bizhixiang.cn, AdBlock
 HOST-SUFFIX, jspassport.ssl.qhimg.com, AdBlock
 
-##### https://gimy.tv/ 剧迷tv  
+##### gimy.tv 剧迷tv  
 HOST-SUFFIX, ads.superad.cc, AdBlock
 
-##### https://javfan.one/ JAVFAN
+##### javfan.one
 HOST-SUFFIX, isboost.co.jp, AdBlock
 HOST-SUFFIX, boost-next.co.jp, AdBlock
 HOST-SUFFIX, ad-nex.com, AdBlock
@@ -205,7 +207,7 @@ HOST-SUFFIX, blastcahs.com, AdBlock
 ##### javtsunami.com  
 HOST-SUFFIX, alexametrics.com, AdBlock
 
-##### https://hpjav.tv/ JAVFAN #NSFW  
+##### hpjav.tv  
 HOST-SUFFIX, wpncdn.com, AdBlock
 HOST-SUFFIX, exosrv.com, AdBlock
 HOST-SUFFIX, jads.co, AdBlock
@@ -220,12 +222,12 @@ HOST-KEYWORD, trwl1, AdBlock
 HOST-KEYWORD, o333o, AdBlock
 HOST-SUFFIX, ad.pornimg.xyz, AdBlock
 
-##### https://javgg.net/  
+##### javgg.net
 HOST-SUFFIX, x2sfa.javgg.eu, AdBlock
 HOST-SUFFIX, xd3r.javgg.eu, AdBlock
 HOST-SUFFIX, p242.plainwrk.name, AdBlock
 
-##### https://www5.javmost.com/  
+##### www5.javmost.com  
 HOST-KEYWORD, histats, AdBlock
 HOST-KEYWORD, dtscout, AdBlock
 HOST-KEYWORD, adform, AdBlock
@@ -233,7 +235,7 @@ HOST-KEYWORD, mathtag, AdBlock
 HOST-KEYWORD, pagespeed-mod, AdBlock
 HOST-KEYWORD, in-page-push, AdBlock
 
-#### disqus  
+#### disqus.com 
 HOST-SUFFIX, referrer.disqus.com, AdBlock
 HOST-SUFFIX, links.services.disqus.com, AdBlock
 HOST-SUFFIX, disqusads.com, AdBlock
